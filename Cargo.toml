@@ -32,7 +32,7 @@ unicode-segmentation = "1.11.0"
 url = "2.5.0"
 webbrowser = "1.0.1"
 ansi-to-tui = "7.0.0"
-bytes = "1.6.0"
+bytes = "1.11.1"
 textwrap = "0.16.1"
 tokio-stream = "0.1.15"
 uuid = { version = "1.8.0", features = ["v4"] }
